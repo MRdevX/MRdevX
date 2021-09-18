@@ -15,13 +15,14 @@
 
 - 📫 How to reach me **m8rashidi@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1c6THOR4iPtLz1rmh1lR8Bs6C15Rpgh6L4OhN8R-fV6s/edit?usp=sharing](https://docs.google.com/document/d/1c6THOR4iPtLz1rmh1lR8Bs6C15Rpgh6L4OhN8R-fV6s/edit?usp=sharing)
+- 📄 Know about my experiences [https://bit.ly/mahdirashidi](https://bit.ly/mahdirashidi)
 
 - ⚡ Fun fact **I woke up everyday at 6 a.m, without setting an alarm, even in holidays.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mrdevx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrdevx" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/1878452/mahdi-rashidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/1878452/mahdi-rashidi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
