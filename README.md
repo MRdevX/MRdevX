@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Fleet Consultant](https://futurefleet.inno2grid.com/)
 
-- 🌱 I’m currently learning **DevOps, Deno, Go**
+- 🌱 I’m currently learning **NestJs, DevOps.**
 
 - 👯 I’m looking to collaborate on [NestJs Micro-service Kit](https://github.com/MRdevX/nestjs-microservice-kit)
 
-- 💬 Ask me about **NodeJs, NestJs**
+- 💬 Ask me about **NodeJs, NestJs.**
 
 - 📫 How to reach me **m8rashidi@gmail.com**
 
