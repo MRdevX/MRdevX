@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/mahdirashidi](https://bit.ly/mahdirashidi)
 
-- ⚡ Fun fact **I woke up everyday at 6 a.m, without setting an alarm, even in holidays.**
+- ⚡ Fun fact **I woke up everyday around 5 a.m, without setting an alarm, even in holidays.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
