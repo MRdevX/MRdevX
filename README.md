@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Fleet Consultant](https://futurefleet.inno2grid.com/)
 
-- 🌱 I’m currently learning **NestJs, DevOps.**
+- 🌱 I’m currently improving my **NestJs, DevOps** skills.
 
 - 👯 I’m looking to collaborate on [NestJs Micro-service Kit](https://github.com/MRdevX/nestjs-microservice-kit)
 
