@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am a Software Engineer with around 8 years of experience. Currently, I'm working as a Software Engineer and Technical Architect in the company.<br><br>My expertise lies in building high-performance and scalable applications using NestJs and Typescript, with a strong focus on microservices architecture.<br><br>I have experience with DevOps and cloud services like Azure and AWS. I'm eager to learn more and become an experienced and knowledgeable Solutions Architect.<br><br>I have several notable project experiences as a Backend Engineer and have received multiple awards.<br><br>I love programming and creating innovative applications. I am always eager to work on challenging projects that are instrumental in driving business success.
+Experienced Software Engineer & Technical Architect | 10+ years
+
+- Specialist in high-performance, scalable applications using NestJS & TypeScript
+- Microservices architecture expert
+- DevOps proficient with Azure & AWS
+- Aspiring Solutions Architect
+- Passionate about innovative, business-driving solutions
+
+Always seeking challenging projects that push the boundaries of technology and drive success.
 
 
 ## 🌐 Socials:
