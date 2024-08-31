@@ -3,7 +3,7 @@ Experienced Software Engineer & Technical Architect | 9+ years
 
 - Specialist in high-performance, scalable applications using NestJS & TypeScript
 - Microservices architecture expert
-- DevOps proficient with Azure & AWS
+- DevOps proficient with Azure & GCP
 - Aspiring Solutions Architect
 - Passionate about innovative, business-driving solutions
 
