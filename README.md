@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Software Engineer & Technical Architect | 10+ years
+Experienced Software Engineer & Technical Architect | 9+ years
 
 - Specialist in high-performance, scalable applications using NestJS & TypeScript
 - Microservices architecture expert
