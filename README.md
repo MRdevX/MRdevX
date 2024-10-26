@@ -3,7 +3,6 @@ I'm Mahdi Rashidi, a Backend Engineer and Software Architect with 9+ years of ex
 
 - Extensive experience in **Node.js**, **TypeScript**, and **microservices**
 - Proficient in **Azure**, **Docker**, **Kubernetes**, and **DevOps practices**
-- Led infrastructure migration from GCP to Azure, reducing costs by over 45%
 - Experienced with **RabbitMQ** and optimizing API performance
 
 I’m passionate about driving business success through innovative tech solutions and thrive in collaborative environments where diverse ideas solve complex problems.
