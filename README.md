@@ -7,7 +7,6 @@ I work across backend, cloud, and DevOps using Docker, Kubernetes, and CI/CD on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrdevx)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mrdevx)
 [![Stack%20Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1878452)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@theprogrunner)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -27,16 +26,15 @@ I work across backend, cloud, and DevOps using Docker, Kubernetes, and CI/CD on 
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MRdevX&theme=vue-dark&hide_border=false&show_icons=true&include_all_commits=true)
-![](https://streak-stats.demolab.com/?user=MRdevX&theme=vue-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MRdevX&theme=vue-dark&hide_border=false&layout=compact)
+## 📊 GitHub Overview
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MRdevX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![MRdevX GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRdevX&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRdevX&layout=compact&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MRdevX&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+## 🔥 Activity Graph
 
----
-[![](https://visitcount.itsvg.in/api?id=MRdevX&icon=0&color=9)](https://visitcount.itsvg.in)
+![Contributions](https://activity-graph.herokuapp.com/graph?username=MRdevX&theme=react-dark)
+
+## 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MRdevX&theme=radical)](https://github.com/MRdevX)
