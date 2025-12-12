@@ -1,11 +1,7 @@
 # 💫 About Me:
-I'm Mahdi Rashidi, a Backend Engineer and Software Architect with 9+ years of experience building scalable backend services and microservices aligned with business needs. Skilled in TypeScript and NestJS, I specialize in cloud-native applications and high-performance architectures.
+I’m a software engineer with 9 years of experience building backend systems and microservices. Over the past 6 years, I’ve focused on Node.js and TypeScript, with earlier experience in Java and Python.
 
-- Extensive experience in **Node.js**, **TypeScript**, and **microservices**
-- Proficient in **Azure**, **Docker**, **Kubernetes**, and **DevOps practices**
-- Experienced with **RabbitMQ** and optimizing API performance
-
-I’m passionate about driving business success through innovative tech solutions and thrive in collaborative environments where diverse ideas solve complex problems.
+I work across backend, cloud, and DevOps using Docker, Kubernetes, and CI/CD on AWS and Azure, and I value clean, maintainable code that scales with the business.
 
 
 ## 🌐 Socials:
