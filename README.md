@@ -1,14 +1,14 @@
-# 💫 About Me:
+# About Me:
 I’m a software engineer with 9 years of experience building backend systems and microservices. Over the past 6 years, I’ve focused on Node.js and TypeScript, with earlier experience in Java and Python.
 
 I work across backend, cloud, and DevOps using Docker, Kubernetes, and CI/CD on AWS and Azure, and I value clean, maintainable code that scales with the business.
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrdevx)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mrdevx)
 [![Stack%20Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1878452)
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
