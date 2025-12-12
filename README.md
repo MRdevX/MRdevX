@@ -24,17 +24,3 @@ I work across backend, cloud, and DevOps using Docker, Kubernetes, and CI/CD on 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-5835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-## 📊 GitHub Overview
-
-![MRdevX GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRdevX&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRdevX&layout=compact&theme=radical)
-
-## 🔥 Activity Graph
-
-![Contributions](https://activity-graph.herokuapp.com/graph?username=MRdevX&theme=react-dark)
-
-## 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MRdevX&theme=radical)](https://github.com/MRdevX)
