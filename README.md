@@ -4,7 +4,7 @@ I’m a software engineer with 9 years of experience building backend systems an
 I work across backend, cloud, and DevOps using Docker, Kubernetes, and CI/CD on AWS and Azure, and I value clean, maintainable code that scales with the business.
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrdevx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/deerashidi)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mrdevx)
 [![Stack%20Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1878452)
 
