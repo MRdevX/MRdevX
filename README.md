@@ -1,5 +1,5 @@
 # About Me:
-I’m a software engineer with 9 years of experience building backend systems and microservices. Over the past 6 years, I’ve focused on Node.js and TypeScript, with earlier experience in Java and Python.
+I’m a software engineer with 10 years of experience building backend systems and microservices. Over the past 6 years, I’ve focused on Node.js and TypeScript, with earlier experience in Java and Python.
 
 I work across backend, cloud, and DevOps using Docker, Kubernetes, and CI/CD on AWS and Azure, and I value clean, maintainable code that scales with the business.
 
